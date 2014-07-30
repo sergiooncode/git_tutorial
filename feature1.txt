@@ -3,3 +3,5 @@ Feature 1 file
 First commit.
 
 second commit.
+
+third commit.
